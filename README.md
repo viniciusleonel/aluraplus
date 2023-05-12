@@ -6,7 +6,7 @@
 ## Screenshots
 ![Screenshot da tela inicial do Alura Plus](https://imgur.com/nKUf7MK.png)
 
-## Link do projeto: https://aluraplus-omega-six.vercel.app/
+<!-- ## Link do projeto: https://aluraplus-omega-six.vercel.app/ -->
 
 ## Ferramentas utilizadas:
 
