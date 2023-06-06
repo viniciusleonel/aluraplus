@@ -26,7 +26,7 @@
 
 ## Um site para divulgação da Alura Plus, uma plataforma de streaming com os conteúdos educacionais da Alura.
 
-| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/viniciuslps-cms   |
+<!-- | :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/viniciuslps-cms   | -->
 | -------------  | --- |
 | :sparkles: Nome        | **AluraPlus+**
 | :label: Tecnologias | **HTML, CSS** 
